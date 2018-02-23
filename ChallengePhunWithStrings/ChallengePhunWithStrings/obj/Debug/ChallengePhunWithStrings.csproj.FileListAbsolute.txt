@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll.config
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.pdb
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.dll
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.pdb

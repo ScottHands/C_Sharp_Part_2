@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll.config
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.pdb
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\MegaChallengeCasino\MegaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\MegaChallengeCasino\MegaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.dll
+C:\Users\Student\Documents\GitHub\C_Sharp_Part_2\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.pdb
