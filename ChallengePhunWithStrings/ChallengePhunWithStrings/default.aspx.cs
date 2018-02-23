@@ -19,9 +19,9 @@ namespace ChallengePhunWithStrings
                 {
                     reversedName = reversedName + name[i];
                 }
-                resultLabel.Text = reversedName;
+                resultLabel1.Text = reversedName;
 
-            }
+            
 
                // 2.  Reverse this sequence:
                string names = "Luke,Leia,Han,Chewbacca";
@@ -33,27 +33,27 @@ namespace ChallengePhunWithStrings
                   {
                      result += reversedNames[i] + ","; 
                   }
-                  result = result.Remove(result.Length - 1; 1);
-                  resultLabel.Text = result; 
-             }
+                  result = result.Remove(result.Length - 1);
+                  resultLabel2.Text = result; 
+            
 
 
-               // 3.  Use the sequence to create ascii art: use padding left and right
-               // *****Luke*****
-               // *****Leia*****
-               // *****Han******
-               // **Chewbacca***
-
-               string[] reversedNames = names.Split(',');
-               string result = "";
-               for (int i = 0; i < reversedNames.Length; i++)
+            // 3.  Use the sequence to create ascii art: use padding left and right
+            // *****Luke*****
+            // *****Leia*****
+            // *****Han******
+            // **Chewbacca***
+           // string names = "Luke,Leia,Han,Chewbacca";
+            string[] reversedNames2 = names.Split(',');
+               string result2 = "";
+               for (int i = 0; i < reversedNames2.Length; i++)
                {
-                   int padLeft = (14 - reversedNames[i].Length) / 2;
-                   string temp = reversedNames[i].PadLeft(reversedNames[i].Length + padLeft, '*');
-                   result += temp.PadRight(14, '*');
-                   result += "<br />";
+                   int padLeft = (14 - reversedNames2[i].Length) / 2;
+                   string temp = reversedNames2[i].PadLeft(reversedNames2[i].Length + padLeft, '*');
+                   result2 += temp.PadRight(14, '*');
+                   result2 += "<br />";
                }
-               resultLabel.Text = result; 
+               resultLabel3.Text = result2; 
 
 
 
@@ -72,7 +72,7 @@ namespace ChallengePhunWithStrings
             puzzle = puzzle.Insert(0, "N");
 
 
-            resultLabel.Text = puzzle;
+            resultLabel4.Text = puzzle;
         }
     }
 }
